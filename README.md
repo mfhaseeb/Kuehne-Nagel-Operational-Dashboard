@@ -2,7 +2,7 @@
 
 This project is a dynamic **Excel Dashboard** developed during my **Data Operations Internship at Kuehne + Nagel**, one of the world's leading logistics companies.
 
-The dashboard was designed to provide Data Operations teams and managers with a consolidated, real-time view of critical logistics and supply chain performance indicators (KPIs).
+The dashboard was designed to provide Global Operations teams and managers with a consolidated, real-time view of critical logistics and supply chain performance indicators (KPIs).
 
 ---
 
