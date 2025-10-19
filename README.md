@@ -26,9 +26,3 @@ This dashboard was built using advanced Excel techniques to ensure interactivity
 * **KPI Calculation:** Use of complex **Excel functions** (like `SUMIFS`, `COUNTIFS`) to calculate and display real-time KPIs (e.g., **52.8% On Time Delivery**).
 * **Visual Design:** Custom formatting, card layouts, and conditional logic to replicate the professional look and feel required for executive operational monitoring.
 
----
-
-## 📂 Repository Structure
-
-* `dashboard/`: Contains the final, functional Excel file (`Kuehne_Nagel_Operations_Dashboard.xlsx`).
-* `data/`: Contains the simulated dataset used to drive the dashboard (`Raw_Logistics_Data.csv`).
