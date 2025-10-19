@@ -12,7 +12,7 @@ The dashboard provides a weekly view of operational health, tracking the followi
 
 | Metric Category | Chart/Gauge | KPI |
 | :--- | :--- | :--- |
-| **Delivery Performance** | Gauges/Donut Charts | **Carrier On Time Delivery (%)**, **Business On Time (%)**, and **Business Delayed (%)**. |
+| **Delivery Performance** | Status Cards & Charts | **Carrier On Time Delivery (%)**, **Business On Time (%)**, and **Business Delayed (%)**. |
 | **Load Creation** | Time Series Charts | **DN Created/Week**, **Load Created/Week_Pre_Carriage**, and **Load Created/Week_Main_Carriage**. |
 | **Throughput & Status** | Status Cards & Charts | **PMTC/Week**, **Shipment Arrived**, **Shipment In Transit**, and **Shipment At Origin**. |
 
