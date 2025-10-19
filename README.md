@@ -23,6 +23,6 @@ The dashboard provides a weekly view of operational health, tracking the followi
 This dashboard was built using advanced Excel techniques to ensure interactivity and data accuracy:
 
 * **Dynamic Charts:** Utilization of **Pivot Charts** and standard charts to dynamically track weekly performance across 52 weeks of data.
-* **KPI Calculation:** Use of complex **Excel functions** (like `SUMIFS`, `COUNTIFS`) to calculate and display real-time KPIs (e.g., **52.8% On Time Delivery**).
+* **KPI Calculation:** Use of complex **Excel functions** (like `SUMIFS`, `COUNTIFS`, Data Modelling, PowerQuery etc.) to calculate and display real-time KPIs (e.g., **52.8% On Time Delivery**).
 * **Visual Design:** Custom formatting, card layouts, and conditional logic to replicate the professional look and feel required for executive operational monitoring.
 
